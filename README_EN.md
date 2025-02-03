@@ -11,7 +11,7 @@ I have added a reset switch on the PCB of this dongle, so you can also use it as
 
 ## Firmware repository
 
-Firmware repository in [ZMK] (. / ZMK) below, in fact you can also go directly to my configuration warehouse: https://github.com/tokyo2006/zmk-for-cygnus/tree/36_trackball_mouse
+Firmware repository in [ZMK](./zmk/) below, in fact you can also go directly to my configuration warehouse: https://github.com/tokyo2006/zmk-for-cygnus/tree/36_trackball_mouse
 
 ## Components Required for PCB
 
