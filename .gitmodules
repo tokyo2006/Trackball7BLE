@@ -1,0 +1,3 @@
+[submodule "zmk"]
+	path = zmk
+	url = https://github.com/tokyo2006/zmk-for-cygnus
