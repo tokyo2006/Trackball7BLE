@@ -4,7 +4,8 @@
 - [English](README_EN.md)
 
 > Built using Micro52840 by Eyelash哥 for a dongle.
-
+> I only bought it from Taobao but I asked for a link to the Aliexpress page. you can reference.
+> Aliexpress : [Micro nrf52840](https://vi.aliexpress.com/item/1005007859027151.html?gatewayAdapt=glo2vnm)
 This dongle requires you to flash the bootloader manually. The bootloader files are located in the `bootloader` folder. The PCB files can be opened with EDA software from Jialcit. The files in the `case` folder contain step files, which you can print yourself.
 
 I have added a reset switch on the PCB of this dongle, so you can also use it as a standalone trackball device. The trackball model I referenced is from this project [Trackball-7](https://www.printables.com/model/83631-trackball-7), and I redrawed the PCB for it since the original version was a wired design using an RP2040 board. Here's the link to the original PCB: [https://github.com/jfedor2/rp2040-pmw3360](https://github.com/jfedor2/rp2040-pmw3360)
