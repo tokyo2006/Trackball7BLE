@@ -81,7 +81,3 @@ If you wish to contribute code or documentation to this project, please follow t
 ## License
 
 This project is open-source under the [CERN Open Hardware Licence Version 2](https://opensource.org/license/cern-ohl-p). For detailed license information, please refer to the [LICENSE](./LICENSE) file.
-
----
-
-这篇翻译保持了原文的结构和内容，同时确保了技术术语和信息的准确性。你可以将这段文本保存为 `README_EN.md` 文件。
